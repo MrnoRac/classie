@@ -1,0 +1,1 @@
+{"version":3,"sources":["classie/db.cljs"],"mappings":";AAEA,wBAAA,2CAAA,qDAAA,WAAA,8DAAA,GAAA,6DAAA,jQAAKA","names":["classie.db/default-db"],"sourcesContent":["(ns classie.db)\n\n(def default-db\n  {:name \"re-frame\"\n   :incoming \"\"\n   :outgoing \"\"})\n\n\n{:name \"abc\"\n :number 123\n :list [1 2 3]\n :map {1 2 3 4}}\n"]}

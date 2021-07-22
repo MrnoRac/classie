@@ -1,0 +1,15 @@
+/out/
+
+/target/
+/*-init.clj
+/*.log
+
+# Leiningen
+/.lein-*
+/.nrepl-port
+
+# Node.js dependencies
+
+
+# shadow-cljs cache, port files
+/.shadow-cljs/

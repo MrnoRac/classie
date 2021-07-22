@@ -1,0 +1,1 @@
+{"version":3,"sources":["classie/config.cljs"],"mappings":";AAEA,AAAKA,8BACMC","names":["classie.config/debug?","js/goog.DEBUG"],"sourcesContent":["(ns classie.config)\n\n(def debug?\n  ^boolean goog.DEBUG)\n"]}
